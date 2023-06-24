@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mayank171195
+- 👀 I’m interested in Artificial Intelligence, Data Science and Machine learning.
+- 🌱 I’m currently learning Artificial Intelligence, Data Science and Machine learning.
+- 💞️ I’m looking to collaborate on projects.
